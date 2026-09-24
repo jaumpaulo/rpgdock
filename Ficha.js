@@ -40,4 +40,4 @@ class Ficha {
     }
 }
 
-module.exports = Ficha;
+export default Ficha;
